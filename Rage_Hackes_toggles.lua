@@ -3,7 +3,7 @@
 --------------------------------------------------------
 -- PLACE LOCK (only runs in your game)
 --------------------------------------------------------
-local YOUR_PLACE_ID = 4780339230 -- <<<<< PUT YOUR GAME ID HERE
+local YOUR_PLACE_ID = 17625359962 -- <<<<< PUT YOUR GAME ID HERE
 if game.PlaceId ~= YOUR_PLACE_ID then
     warn("This script only works in your game.")
     return 
